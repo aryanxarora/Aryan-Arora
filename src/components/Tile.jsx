@@ -14,7 +14,7 @@ function Tile({ imageUrl, title, tag, description }) {
         {/* Tag */}
         <p className="font-serif text-base">{tag}</p>
         {/* Description */}
-        <p className="font-serif lg:pt-10">{description}</p>
+        <p className="font-serif pt-5 lg:pt-10">{description}</p>
       </div>
     </div>
   );

@@ -5,7 +5,7 @@ function Projects() {
     <div className="lg:px-20 lg:flex lg:flex-wrap">
       <Tile
         imageUrl={
-          "https://drive.google.com/uc?export=view&id=13XgvKXnXB4neG4yXixqc-b9iaJch0roL"
+          "https://raw.githubusercontent.com/aryanxarora/portfolio/main/src/images/hr_system.png"
         }
         title={
           "HR MANAGEMENT SYSTEM TO KEEP TRACK OF TEACHERS AND STAFF PAYROLL"
@@ -17,7 +17,7 @@ function Projects() {
       />
       <Tile
         imageUrl={
-          "https://drive.google.com/uc?export=view&id=1pPjNyBmk4SzwczoO6qgqHpJuY3o8goUY"
+          "https://raw.githubusercontent.com/aryanxarora/portfolio/main/src/images/databases.png"
         }
         title={
           "WAREHOUSE INVENTORY MANAGEMENT DATABASE FOR LUXURY ONLINE RETAILER"
