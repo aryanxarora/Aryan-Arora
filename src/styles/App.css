@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Times Now';
+  src: url('../../public/timesnow.woff2') format('woff2');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
