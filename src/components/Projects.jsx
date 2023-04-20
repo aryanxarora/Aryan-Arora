@@ -10,7 +10,7 @@ function Projects() {
         title={
           "HR MANAGEMENT SYSTEM TO KEEP TRACK OF TEACHERS AND STAFF PAYROLL"
         }
-        tag={"Java -- Swing"}
+        tag={"Java — Swing, OOP, Files"}
         description={
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum, dolor sit amet consectetur adipisicing elit."
         }
@@ -22,7 +22,7 @@ function Projects() {
         title={
           "WAREHOUSE INVENTORY MANAGEMENT DATABASE FOR LUXURY ONLINE RETAILER"
         }
-        tag={"SQL -- Datagrip"}
+        tag={"SQL — Datagrip, ERD, Create + Insert"}
         description={
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum, dolor sit amet consectetur adipisicing elit."
         }
