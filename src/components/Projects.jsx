@@ -22,7 +22,7 @@ function Projects() {
         title={
           "WAREHOUSE INVENTORY MANAGEMENT DATABASE FOR LUXURY ONLINE RETAILER"
         }
-        tag={"SQL — Datagrip, ERD, Create + Insert"}
+        tag={"SQL — Datagrip, ERD"}
         description={
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum, dolor sit amet consectetur adipisicing elit."
         }
