@@ -4,13 +4,13 @@ function Nav() {
       {/* Nav Items */}
       <div className="lg:basis-1/3">
         <ul className="flex flex-wrap text-xs font-sans justify-center lg:px-10">
-          <li className="pr-5 hover:underline lg:pr-3">
+          <li className="pr-5 hover:underline lg:pr-5 2xl:pr-10">
             <a href="#">PROJECTS</a>
           </li>
-          <li className="pr-5 hover:underline lg:pr-3">
+          <li className="pr-5 hover:underline lg:pr-5 2xl:pr-10">
             <a href="#">PHOTOGRAPHY</a>
           </li>
-          <li className="pr-5 hover:underline lg:pr-3">
+          <li className="pr-5 hover:underline lg:pr-5 2xl:pr-10">
             <a href="#">EVERYTHING ELSE</a>
           </li>
           <li className="hover:underline">
