@@ -2,7 +2,7 @@ function Photography() {
   const getImages = () => {
     let content = [];
     let imageurl = "https://source.unsplash.com/featured/";
-    for (let i = 0; i < 20; i++) {
+    for (let i = 0; i < 30; i++) {
       content.push(<img src={imageurl + i} alt="" />);
     }
     return content;

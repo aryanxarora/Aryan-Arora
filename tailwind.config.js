@@ -5,10 +5,12 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {
-      cursor: {
-        'arrow': 'url(hand.cur), pointer'
-      }
+    screens: {
+      'sm' : '640px',
+      'md' : '768px',
+      'lg' : '1024px',
+      'xl' : '1280px',
+      '2xl' : '1536px'
     },
     fontFamily: {
       'sans' : ['Inter', 'ui-sans-serif', 'system-ui'],
