@@ -8,7 +8,7 @@ function Tile({ imageUrl, title, tag, description }) {
       {/* Body */}
       <div className="lg:basis-1/2 lg:pl-5">
         {/* Title */}
-        <p className="font-sans lg:text-2xl hover:underline cursor-alias">
+        <p className="font-sans lg:text-xl 2xl:text-2xl hover:underline cursor-alias">
           {title}
         </p>
         {/* Tag */}

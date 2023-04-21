@@ -2,7 +2,7 @@ import Tile from "./Tile";
 
 function Projects() {
   return (
-    <div className="lg:px-20 lg:flex lg:flex-wrap">
+    <div className="lg:flex lg:flex-wrap lg:px-10 2xl:px-20 ">
       <Tile
         imageUrl={
           "https://raw.githubusercontent.com/aryanxarora/portfolio/main/src/images/hr_system.png"
@@ -19,9 +19,7 @@ function Projects() {
         imageUrl={
           "https://raw.githubusercontent.com/aryanxarora/portfolio/main/src/images/databases.png"
         }
-        title={
-          "WAREHOUSE INVENTORY MANAGEMENT DATABASE FOR LUXURY ONLINE RETAILER"
-        }
+        title={"WAREHOUSE INVENTORY MANAGEMENT DATABASE"}
         tag={"SQL — Datagrip, ERD"}
         description={
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum, dolor sit amet consectetur adipisicing elit."
