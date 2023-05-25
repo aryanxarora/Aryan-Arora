@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import Projects from './components/Projects';
 import Announce from './components/Announce';
 import Photography from './components/Photography';
+import EverythingElse from './components/EverythingElse';
 
 function App() {
   return (
@@ -10,8 +11,9 @@ function App() {
 
       <Announce/>
       <Navbar/>
-      <Projects />
+      {/* <Projects /> */}
       {/* <Photography/> */}
+      <EverythingElse />
 
     </div>
   );
