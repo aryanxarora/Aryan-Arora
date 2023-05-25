@@ -17,13 +17,13 @@ function App() {
       <Announce/>
       <Router>
         <div>
-        <Navbar />
-        <Routes>
-          <Route path="/" element={<Projects />} />
-          <Route path="/projects" element={<Projects />} />
-          <Route path="/photography" element={<Photography />} />
-          <Route path="/everythingelse" element={<EverythingElse />} />
-        </Routes>
+          <Navbar />
+          <Routes>
+            <Route path="/" element={<Projects />} />
+            <Route path="/projects" element={<Projects />} />
+            <Route path="/photography" element={<Photography />} />
+            <Route path="/everythingelse" element={<EverythingElse />} />
+          </Routes>
         </div>
       </Router>
     </div>
