@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 function Nav() {
   return (
     <nav className="sticky bg-white top-0 py-5 lg:flex lg:flex-wrap lg:items-center lg:px-0 lg:py-5">
@@ -5,16 +7,16 @@ function Nav() {
       <div className="lg:basis-1/3">
         <ul className="flex flex-wrap text-xs font-sans justify-center lg:px-10">
           <li className="pr-5 hover:underline lg:pr-5 2xl:pr-10">
-            <a href="#">PROJECTS</a>
+            <Link to="/projects">PROJECTS</Link>
           </li>
           <li className="pr-5 hover:underline lg:pr-5 2xl:pr-10">
-            <a href="#">PHOTOGRAPHY</a>
+            <Link to="/photography">PHOTOGRAPHY</Link>
           </li>
           <li className="pr-5 hover:underline lg:pr-5 2xl:pr-10">
-            <a href="#">EVERYTHING ELSE</a>
+            <Link to="/everythingelse">EVERYTHING ELSE</Link>
           </li>
           <li className="hover:underline">
-            <a href="#">CONTACT</a>
+            <Link to="/content">CONTACT</Link>
           </li>
         </ul>
       </div>
