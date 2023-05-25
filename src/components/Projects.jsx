@@ -2,7 +2,7 @@ import Tile from "./Tile";
 
 function Projects() {
   return (
-    <div className="lg:flex lg:flex-wrap lg:px-10 2xl:px-20 ">
+    <div className="lg:flex lg:flex-wrap lg:px-10 2xl:px-20">
       <Tile
         imageUrl={
           "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/ergofix.png"

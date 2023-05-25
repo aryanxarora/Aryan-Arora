@@ -13,6 +13,9 @@ function EverythingElse() {
       <Blog title={title} paragraph={paragraph} />
       <Blog title={title} paragraph={paragraph} />
       <Blog title={title} paragraph={paragraph} />
+      <Blog title={title} paragraph={paragraph} />
+      <Blog title={title} paragraph={paragraph} />
+      <Blog title={title} paragraph={paragraph} />
     </div>
   );
 }
