@@ -35,11 +35,16 @@ function Contact() {
   };
 
   return (
-    <div className="flex justify-center items-center">
+    <div className="flex flex-col justify-center items-center mx-5">
+      <div className="w-full lg:w-1/2 xl:w-1/3">
+        <h1 className="font-serif text-3xl">Reach me on my socials:</h1>
+        <div></div>
+        <h1 className="font-serif text-3xl">or send an email</h1>
+      </div>
       <form
         ref={form}
         onSubmit={sendEmail}
-        className="flex flex-col space-y-4 mt-10"
+        className="flex flex-col space-y-4 w-full lg:w-1/2 xl:w-1/3"
       >
         <div>
           <label className="text-sm">Full Name</label>
@@ -70,7 +75,7 @@ function Contact() {
         </div>
         <button
           type="submit"
-          value="Send"
+          value="send"
           className={`inline-block ring-1 ring-gray-500 font-sans text-sm px-6 py-2 uppercase hover:bg-black hover:text-white ${submitClasses}`}
           disabled={isDisabled}
         >

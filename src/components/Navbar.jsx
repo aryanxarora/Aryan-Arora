@@ -25,7 +25,20 @@ function Nav() {
         <h1 className="text-center text-xl">ARYAN ARORA</h1>
       </div>
       {/* Right */}
-      <div className="lg:basis-1/3"></div>
+      <div className="lg:basis-1/3">
+        <img
+          src="https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/instagram.png"
+          alt=""
+        />
+        <img
+          src="https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/linkedin.png"
+          alt=""
+        />
+        <img
+          src="https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/github.png"
+          alt=""
+        />
+      </div>
     </nav>
   );
 }
