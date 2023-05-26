@@ -41,30 +41,30 @@ function Contact() {
         <div className="flex my-5 space-x-2">
           <a href="https://instagram.com/aryanxarora" target="_blank">
             <img
-              src="https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/instagram.png"
+              src="https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/instagram.svg"
               alt=""
-              width="20px"
+              width="30px"
             />
           </a>
           <a href="https://www.linkedin.com/in/aryanxarora/" target="_blank">
             <img
-              src="https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/linkedin.png"
+              src="https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/linkedin.svg"
               alt=""
-              width="20px"
+              width="30px"
             />
           </a>
           <a href="https://github.com/aryanxarora" target="_blank">
             <img
-              src="https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/github.png"
+              src="https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/github.svg"
               alt=""
-              width="20px"
+              width="30px"
             />
           </a>
           <a href="https://www.tiktok.com/@aryanxarora" target="_blank">
             <img
-              src="https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/tiktok.png"
+              src="https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/tiktok.svg"
               alt=""
-              width="20px"
+              width="30px"
             />
           </a>
         </div>
