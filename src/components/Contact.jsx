@@ -77,7 +77,7 @@ function Contact() {
             type="text"
             name="user_name"
             placeholder="John Doe"
-            className="text-sm ring-1 ring-black w-full px-4 py-2 mt-2 outline-none focus:ring-2 focus:ring-purple-300"
+            className="text-sm border border-solid border-black w-full px-4 py-2 mt-2 outline-none focus:ring-2 focus:ring-purple-300"
           />
         </div>
         <div>
@@ -86,7 +86,7 @@ function Contact() {
             type="email"
             name="user_email"
             placeholder="johndoe@acme.corp"
-            className="text-sm ring-1 ring-black w-full px-4 py-2 mt-2 outline-none focus:ring-2 focus:ring-purple-300"
+            className="text-sm border border-solid border-black w-full px-4 py-2 mt-2 outline-none focus:ring-2 focus:ring-purple-300"
           />
         </div>
         <div>
@@ -95,7 +95,7 @@ function Contact() {
             name="message"
             placeholder="I would like to give you a million dollars!"
             rows="10"
-            className="text-sm ring-1 ring-black w-full px-4 py-2 mt-2 outline-none focus:ring-2 focus:ring-purple-300"
+            className="text-sm border border-solid border-black w-full px-4 py-2 mt-2 outline-none focus:ring-2 focus:ring-purple-300"
           ></textarea>
         </div>
         <button
