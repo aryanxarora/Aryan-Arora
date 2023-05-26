@@ -35,10 +35,35 @@ function Contact() {
   };
 
   return (
-    <div className="flex flex-col justify-center items-center mx-5">
+    <div className="flex flex-col justify-center items-center mx-5 my-5">
       <div className="w-full lg:w-1/2 xl:w-1/3">
         <h1 className="font-serif text-3xl">Reach me on my socials:</h1>
-        <div></div>
+        <div className="flex my-5 space-x-2">
+          <a href="https://instagram.com/aryanxarora" target="_blank">
+            <img
+              src="https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/instagram.png"
+              alt=""
+            />
+          </a>
+          <a href="https://www.linkedin.com/in/aryanxarora/" target="_blank">
+            <img
+              src="https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/linkedin.png"
+              alt=""
+            />
+          </a>
+          <a href="https://github.com/aryanxarora" target="_blank">
+            <img
+              src="https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/github.png"
+              alt=""
+            />
+          </a>
+          <a href="https://www.tiktok.com/@aryanxarora" target="_blank">
+            <img
+              src="https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/tiktok.png"
+              alt=""
+            />
+          </a>
+        </div>
         <h1 className="font-serif text-3xl">or send an email</h1>
       </div>
       <form
