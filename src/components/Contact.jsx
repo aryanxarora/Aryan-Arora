@@ -82,6 +82,7 @@ function Contact() {
             name="user_name"
             placeholder="John Doe"
             className="text-sm border border-solid border-black rounded-none w-full px-4 py-2 mt-2 outline-none focus:ring-2 focus:ring-purple-300"
+            required
           />
         </div>
         <div>
@@ -91,6 +92,7 @@ function Contact() {
             name="user_email"
             placeholder="johndoe@acme.corp"
             className="text-sm border border-solid border-black rounded-none w-full px-4 py-2 mt-2 outline-none focus:ring-2 focus:ring-purple-300"
+            required
           />
         </div>
         <div>
@@ -100,6 +102,7 @@ function Contact() {
             placeholder="I would like to give you a million dollars!"
             rows="10"
             className="text-sm border border-solid border-black rounded-none w-full px-4 py-2 mt-2 outline-none focus:ring-2 focus:ring-purple-300"
+            required
           ></textarea>
         </div>
         <button
