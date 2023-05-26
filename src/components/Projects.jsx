@@ -16,17 +16,6 @@ function Projects() {
       />
       <Tile
         imageUrl={
-          "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/alpha_phi.png"
-        }
-        title={"ALPHA PHI BETA FRATERNITY WEBSITE"}
-        tag={"HTML/CSS/JS"}
-        description={
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum, dolor sit amet consectetur adipisicing elit."
-        }
-        repo={"https://alpha-phi-beta.netlify.app/index.html"}
-      />
-      <Tile
-        imageUrl={
           "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/hr_system.png"
         }
         title={
@@ -48,6 +37,17 @@ function Projects() {
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum, dolor sit amet consectetur adipisicing elit."
         }
         repo={"https://github.com/aryanxarora/project-hr-management-system"}
+      />
+      <Tile
+        imageUrl={
+          "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/alpha_phi.png"
+        }
+        title={"ALPHA PHI BETA FRATERNITY WEBSITE"}
+        tag={"HTML/CSS/JS"}
+        description={
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum, dolor sit amet consectetur adipisicing elit."
+        }
+        repo={"https://alpha-phi-beta.netlify.app/index.html"}
       />
     </div>
   );

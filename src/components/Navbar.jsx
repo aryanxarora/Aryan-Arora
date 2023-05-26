@@ -16,7 +16,7 @@ function Nav() {
             <Link to="/everythingelse">EVERYTHING ELSE</Link>
           </li>
           <li className="hover:underline">
-            <Link to="/content">CONTACT</Link>
+            <Link to="/contact">CONTACT</Link>
           </li>
         </ul>
       </div>

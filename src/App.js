@@ -10,6 +10,7 @@ import Projects from './components/Projects';
 import Announce from './components/Announce';
 import Photography from './components/Photography';
 import EverythingElse from './components/EverythingElse';
+import Contact from "./components/Contact";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
             <Route path="/projects" element={<Projects />} />
             <Route path="/photography" element={<Photography />} />
             <Route path="/everythingelse" element={<EverythingElse />} />
+            <Route path="/contact" element={<Contact />} />
           </Routes>
         </div>
       </Router>
