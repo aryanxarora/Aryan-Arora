@@ -105,7 +105,7 @@ function Contact() {
         <button
           type="submit"
           value="send"
-          className={`inline-block ring-1 ring-gray-500 font-sans text-sm px-6 py-2 uppercase hover:bg-black hover:text-white ${submitClasses}`}
+          className={`inline-block ring-1 ring-black font-sans text-sm px-6 py-2 uppercase hover:bg-black hover:text-white ${submitClasses}`}
           disabled={isDisabled}
         >
           {buttonText}
