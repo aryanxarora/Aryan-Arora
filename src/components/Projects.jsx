@@ -51,14 +51,25 @@ function Projects() {
       />
       <Tile
         imageUrl={
-          "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/alpha_phi.png"
+          "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/ai.png"
         }
-        title={"ALPHA PHI BETA FRATERNITY WEBSITE"}
-        tag={"HTML/CSS/JS"}
+        title={"SMALL ARTIFICIAL INTELLIGENCE GAMES"}
+        tag={"Python — OOP"}
         description={
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum, dolor sit amet consectetur adipisicing elit."
         }
-        repo={"https://alpha-phi-beta.netlify.app/index.html"}
+        repo={"https://github.com/aryanxarora/dlsu-ai-projects"}
+      />
+      <Tile
+        imageUrl={
+          "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/first.png"
+        }
+        title={"MY FIRST EVER WEBSITE"}
+        tag={"HTML/CSS/JS, Firebase, Netlify"}
+        description={
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum, dolor sit amet consectetur adipisicing elit."
+        }
+        repo={"https://aryanxarora.github.io/"}
       />
     </div>
   );
