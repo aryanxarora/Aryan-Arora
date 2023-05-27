@@ -51,6 +51,17 @@ function Projects() {
       />
       <Tile
         imageUrl={
+          "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/thesis.png"
+        }
+        title={"AUTHENTICATION AND GROUP KEY MANAGEMENT PROTOCOL"}
+        tag={"Python — Hashing, Ellptic Curve Cryptography"}
+        description={
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum, dolor sit amet consectetur adipisicing elit."
+        }
+        repo={"https://github.com/aryanxarora/dlsu-thesis"}
+      />
+      <Tile
+        imageUrl={
           "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/ai.png"
         }
         title={"SMALL ARTIFICIAL INTELLIGENCE GAMES"}
