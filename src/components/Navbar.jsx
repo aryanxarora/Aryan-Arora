@@ -22,7 +22,9 @@ function Nav() {
       </div>
       {/* Title */}
       <div className="pt-5 font-bold lg:basis-1/3 lg:p-0">
-        <h1 className="text-center text-xl">ARYAN ARORA</h1>
+        <Link to="/">
+          <h1 className="text-center text-xl">ARYAN ARORA</h1>
+        </Link>
       </div>
       {/* Right */}
       <div className="lg:basis-1/3"></div>
