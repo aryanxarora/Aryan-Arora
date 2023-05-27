@@ -5,6 +5,17 @@ function Projects() {
     <div className="lg:flex lg:flex-wrap lg:px-10 2xl:px-20">
       <Tile
         imageUrl={
+          "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/kitchenette.png"
+        }
+        title={"RECIPE SHARING WEB APP"}
+        tag={"EJS, Express, MongoDB, NodeJS, Cookies"}
+        description={
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum, dolor sit amet consectetur adipisicing elit."
+        }
+        repo={"https://github.com/aryanxarora/dlsu-kitchenette"}
+      />
+      <Tile
+        imageUrl={
           "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/ergofix.png"
         }
         title={"ERGOFIX PHILIPPINES ECOMMERCE STORE"}
