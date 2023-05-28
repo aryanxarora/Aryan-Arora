@@ -4,7 +4,7 @@ import emailjs from "@emailjs/browser";
 function Contact() {
   const form = useRef();
   const [isDisabled, setIsDisabled] = useState(false);
-  const [submitClasses, setSubmitClasses] = useState(
+  const [submitClasses] = useState(
     "disabled:bg-green-500 disabled:ring-0 disabled:font-medium disabled:text-white"
   );
   const [buttonText, setButtonText] = useState("SEND MESSAGE");
