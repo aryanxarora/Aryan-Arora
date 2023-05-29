@@ -11,6 +11,7 @@ import Announce from './components/Announce';
 import Photography from './components/Photography';
 import EverythingElse from './components/EverythingElse';
 import Contact from "./components/Contact";
+import PageNotFound from "./components/PageNotFound";
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
             <Route path="/photography" element={<Photography />} />
             <Route path="/everythingelse" element={<EverythingElse />} />
             <Route path="/contact" element={<Contact />} /> 
+            <Route path="*" element={ <PageNotFound/> } />
           </Routes>
         </div>
       </Router>
