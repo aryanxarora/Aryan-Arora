@@ -1,4 +1,9 @@
 function Tile({ imageUrl, title, tag, description, repo }) {
+  console.log(imageUrl);
+  console.log(title);
+  console.log(tag);
+  console.log(description);
+  console.log(repo);
   return (
     <div className="p-5 lg:flex lg:flex-wrap lg:w-2/4">
       {/* Image */}
