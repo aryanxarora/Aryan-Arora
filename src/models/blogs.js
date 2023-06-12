@@ -1,52 +1,52 @@
 const blogs = [
   {
     "title" : "Naomi Skwarna Speaks with the Prolific, Trendsetting Knitter Sam Barsky About His Passion and Process",
-    "date" : "1",
+    "date" : "May 27, 2023",
     "paragraph" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio."
   },
   {
     "title" : "Naomi Skwarna Speaks with the Prolific, Trendsetting Knitter Sam Barsky About His Passion and Process",
-    "date" : "2",
+    "date" : "May 27, 2023",
     "paragraph" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio."
   },
   {
     "title" : "Naomi Skwarna Speaks with the Prolific, Trendsetting Knitter Sam Barsky About His Passion and Process",
-    "date" : "3",
+    "date" : "May 27, 2023",
     "paragraph" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio."
   },
   {
     "title" : "Naomi Skwarna Speaks with the Prolific, Trendsetting Knitter Sam Barsky About His Passion and Process",
-    "date" : "4",
+    "date" : "May 27, 2023",
     "paragraph" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio."
   },
   {
     "title" : "Naomi Skwarna Speaks with the Prolific, Trendsetting Knitter Sam Barsky About His Passion and Process",
-    "date" : "5",
+    "date" : "May 27, 2023",
     "paragraph" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio."
   },
   {
     "title" : "Naomi Skwarna Speaks with the Prolific, Trendsetting Knitter Sam Barsky About His Passion and Process",
-    "date" : "6",
+    "date" : "May 27, 2023",
     "paragraph" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio."
   },
   {
     "title" : "Naomi Skwarna Speaks with the Prolific, Trendsetting Knitter Sam Barsky About His Passion and Process",
-    "date" : "7",
+    "date" : "May 27, 2023",
     "paragraph" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio."
   },
   {
     "title" : "Naomi Skwarna Speaks with the Prolific, Trendsetting Knitter Sam Barsky About His Passion and Process",
-    "date" : "8",
+    "date" : "May 27, 2023",
     "paragraph" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio."
   },
   {
     "title" : "Naomi Skwarna Speaks with the Prolific, Trendsetting Knitter Sam Barsky About His Passion and Process",
-    "date" : "9",
+    "date" : "May 27, 2023",
     "paragraph" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio."
   },
   {
     "title" : "Naomi Skwarna Speaks with the Prolific, Trendsetting Knitter Sam Barsky About His Passion and Process",
-    "date" : "10",
+    "date" : "May 27, 2023",
     "paragraph" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates minus nulla aperiam nam ipsa nostrum ipsam impedit, eius harum perferendis soluta explicabo minima necessitatibus fugiat est! Animi eum nostrum odio."
   },
   // {
