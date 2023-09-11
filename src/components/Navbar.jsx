@@ -12,10 +12,9 @@ function Nav() {
           <li className="pr-5 hover:underline lg:pr-5 2xl:pr-10">
             <Link to="/photography">PHOTOGRAPHY</Link>
           </li>
-          {/*
           <li className="pr-5 hover:underline lg:pr-5 2xl:pr-10">
             <Link to="/everythingelse">EVERYTHING ELSE</Link>
-          </li> */}
+          </li>
           <li className="hover:underline">
             <Link to="/contact">CONTACT</Link>
           </li>
