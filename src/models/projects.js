@@ -3,7 +3,7 @@ const projects = [
     "imageUrl" : "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/proview.png",
     "title" : "PROVIEW REAL ESTATE MEDIA WEBSITE",
     "tag" : "ReactJS, TailwindCSS, Vercel",
-    "description" : "The name of this web app is Kitchenete. The story behind this is... I was living alone in an apartment near my university and so were my friends. We decided to share the recipes we were cooking. At the time, Notion wasn't really a big thing (something that could be used for this purpose) so I decided to create a project around it. A web app where you can upload recipes and share them with your friends!",
+    "description" : "The name of this web app is Kitchenete. The story behind this is... I was living alone in an apartment near my university and so were my friends. We decided to share the recipes we were cooking. At the time, Notion wasn't really a big thing (something that could be used for this purpose) so I decided to create a project around it.",
     "repo" : "https://proview.vercel.app/"
   },
   {
