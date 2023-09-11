@@ -11,7 +11,7 @@ const projects = [
     "title" : "ERGOFIX PHILIPPINES ECOMMERCE STORE",
     "tag" : "HTML/CSS/JS",
     "description" : "My good friend had started a business in the Philippines selling sit-stand desks, it was called Ergofix. He hired me to create an e-commerce website for his business. I designed this entire website in Adobe XD and developed it from scratch using HTML/CSS and JS.",
-    "repo" : "https://ergofix.ph/"
+    "repo" : "https://ergofix.netlify.app/"
   },
   {
     "imageUrl" : "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/hr_system.png",
