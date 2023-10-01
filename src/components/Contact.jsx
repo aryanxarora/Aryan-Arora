@@ -60,13 +60,13 @@ function Contact() {
               width="30px"
             />
           </a>
-          <a href="https://www.tiktok.com/@aryanxarora" target="_blank">
+          {/* <a href="https://www.tiktok.com/@aryanxarora" target="_blank">
             <img
               src="https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/tiktok.svg"
               alt=""
               width="30px"
             />
-          </a>
+          </a> */}
         </div>
         <h1 className="font-serif text-3xl">or send an email</h1>
       </div>
