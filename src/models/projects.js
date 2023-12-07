@@ -3,8 +3,15 @@ const projects = [
     "imageUrl" : "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/proview.png",
     "title" : "PROVIEW REAL ESTATE MEDIA WEBSITE",
     "tag" : "ReactJS, TailwindCSS, Vercel",
-    "description" : "The name of this web app is Kitchenete. The story behind this is... I was living alone in an apartment near my university and so were my friends. We decided to share the recipes we were cooking. At the time, Notion wasn't really a big thing (something that could be used for this purpose) so I decided to create a project around it.",
+    "description" : "Website created for a real estate marketing firm to showcase their services and host listings",
     "repo" : "https://proview.vercel.app/"
+  },
+  {
+    "imageUrl" : "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/billing-portal.png",
+    "title" : "PHONE AND INTERNET INVOICING",
+    "tag" : "ReactJS, TailwindCSS, JSPDF",
+    "description" : "An internal billing and invoicing web app created for internet and mobility companies with a portal for admins to send invoices to customers and a customer end to check their plan, usage, and invoices with the feature to pay their bills",
+    "repo" : "https://billing-portal.vercel.app/"
   },
   {
     "imageUrl" : "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/kitchenette.png",
