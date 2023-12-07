@@ -9,9 +9,10 @@ import Navbar from './components/Navbar';
 import Projects from './components/Projects';
 import Announce from './components/Announce';
 import Photography from './components/Photography';
-// import EverythingElse from './components/EverythingElse';
+import EverythingElse from './components/EverythingElse';
 import Contact from "./components/Contact";
 import PageNotFound from "./components/PageNotFound";
+import Vision from "./components/Vision";
 
 function App() {
   return (
@@ -19,12 +20,13 @@ function App() {
       <Announce/>
       <Router>
         <div>
-          <Navbar />
+          <Navbar  />
           <Routes>
             <Route path="/" element={<Projects />} />
             <Route path="/projects" element={<Projects />} />
             <Route path="/photography" element={<Photography />} />
             {/* <Route path="/everythingelse" element={<EverythingElse />} /> */}
+            <Route path="/vision" element={<Vision />} />
             <Route path="/contact" element={<Contact />} /> 
             <Route path="*" element={ <PageNotFound/> } />
           </Routes>
