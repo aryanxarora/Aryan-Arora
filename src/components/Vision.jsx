@@ -12,7 +12,7 @@ function Vision() {
         className="font-serif"
       >
         <h1 className="text-6xl lg:text-8xl">👁</h1>
-        <h1 className="text-5xl lg:text-7xl">'23 Vision</h1>
+        <h1 className="text-5xl lg:text-7xl">'24 Vision</h1>
       </motion.div>
       <motion.div
         initial={{ y: 0, opacity: 0 }}
