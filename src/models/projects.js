@@ -8,7 +8,7 @@ const projects = [
   },
   {
     "imageUrl" : "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/billing-portal.png",
-    "title" : "PHONE AND INTERNET INVOICING",
+    "title" : "MOBILITY AND INTERNET INVOICING",
     "tag" : "ReactJS, TailwindCSS, JSPDF",
     "description" : "An internal billing and invoicing web app created for internet and mobility companies with a portal for admins to send invoices to customers and a customer end to check their plan, usage, and invoices with the feature to pay their bills",
     "repo" : "https://billing-portal.vercel.app/"
