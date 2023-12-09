@@ -13,7 +13,7 @@ function Nav() {
       <div className="lg:basis-1/3">
         <ul className="flex flex-wrap text-xs font-sans justify-center lg:px-10">
           <li className="pr-5 hover:underline lg:pr-5 2xl:pr-10">
-            <Link to="/projects">DEVELOP</Link>
+            <Link to="/projects">DEVELOPER</Link>
           </li>
           <li className="pr-5 hover:underline lg:pr-5 2xl:pr-10">
             {/* <Link to="/photography">PHOTOGRAPHY</Link> */}
@@ -23,7 +23,7 @@ function Nav() {
             <Link to="/everythingelse">EVERYTHING ELSE</Link>
           </li> */}
           <li className="pr-5 hover:underline lg:pr-5 2xl:pr-10">
-            <Link to="/vision">VISION</Link>
+            <Link to="/vision">VISIONARY</Link>
           </li>
           <li className="hover:underline">
             <Link to="/contact">CONTACT</Link>
