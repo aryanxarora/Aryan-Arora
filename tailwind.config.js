@@ -14,7 +14,8 @@ module.exports = {
     },
     fontFamily: {
       'sans' : ['Inter', 'ui-sans-serif', 'system-ui'],
-      'serif': ['Times Now', 'Georgia']
+      'serif': ['Times Now', 'Georgia'],
+      'mono': ['Roboto Mono','SFMono-Regular']
     },
     fontSize: {
       xs: '0.65rem',
