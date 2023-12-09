@@ -1,10 +1,11 @@
 import aryan from "../images/aryan.gif";
 import oscarwylee from "../images/covers/oscarwylee.gif";
 import noize from "../images/covers/noize.gif";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 function Creator() {
   const [modalOpen, setModalOpen] = useState(false);
+  const [scrollPosition, setScrollPosition] = useState(0); // State to store scroll position
   const content = {};
   const [curretContent, setCurrentContent] = useState(null);
 
@@ -16,7 +17,28 @@ function Creator() {
   const closeModal = () => {
     setModalOpen(false);
   };
-  window.scrollTo(0, 0);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setScrollPosition(window.scrollY);
+    };
+
+    window.addEventListener("scroll", handleScroll);
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
+
+  useEffect(() => {
+    if (modalOpen) {
+      document.body.style.overflow = "hidden";
+    } else {
+      document.body.style.overflow = "visible";
+      window.scrollTo(0, scrollPosition);
+    }
+  }, [modalOpen, scrollPosition]);
+
   return (
     <div>
       {modalOpen && (
