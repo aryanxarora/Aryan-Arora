@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 import Draggable from "react-draggable";
-import "../styles/vision.css";
 
 function Vision() {
   window.scrollTo(0, 0);

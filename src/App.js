@@ -1,7 +1,7 @@
 import {
   BrowserRouter as Router,
   Routes,
-  Route
+  Route,
 } from "react-router-dom";
 
 import './styles/App.css';
@@ -16,6 +16,7 @@ import Vision from "./components/Vision";
 import Creator from "./components/Creator";
 
 function App() {
+
   return (
     <div className='App'>
       <Announce/>

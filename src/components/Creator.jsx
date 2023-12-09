@@ -29,31 +29,41 @@ function Creator() {
         </div>
       </div>
       <div className="px-2 lg:px-8 py-10 lg:py-20 gap-0 columns-5 w-full">
-        <img
-          className="rounded-xs p-[2px] lg:p-[5px]"
-          src="https://freight.cargo.site/w/360/q/94/i/2f9fbe8c7f6d35fbf9fecbb0272bbb55505b5aa4a533416618d36c14c1662f14/Mel-Walker---Portfolio---White-Claw---Megawave.gif"
-          alt=""
-        />
-        <img
-          className="rounded-xs p-[2px] lg:p-[5px]"
-          src="https://freight.cargo.site/w/360/q/94/i/c976f321ada37541c8604a564e28262d273cb24d2c331050a306c6b9fb1f6557/Mel-Walker---Portfolio---West-Coast-Modern---Hideaway-House.gif"
-          alt=""
-        />
-        <img
-          className="rounded-xs p-[2px] lg:p-[5px]"
-          src="https://freight.cargo.site/w/360/q/94/i/67f21427ba619a42cd7d65e85c867769c902c6799092859d4e7220b2a3af892c/Mel-Walker---Portfolio---Rhode-low.gif"
-          alt=""
-        />
-        <img
-          className="rounded-xs p-[2px] lg:p-[5px]"
-          src="https://freight.cargo.site/w/360/q/94/i/ebad506045b39267bee95a59d8956f45742a018cc59fb60a7bfeb5342e32753f/Mel-Walker---Portfolio---UNI.gif"
-          alt=""
-        />
-        <img
-          className="rounded-xs p-[2px] lg:p-[5px]"
-          src="https://freight.cargo.site/w/360/q/94/i/2744e6e347340e4f54071efa2cc40a84dbb44aa2588ef16192bdb018f685303e/Mel-Walker---Portfolio---Rhode---Strawberry-Lip-Peptide.gif"
-          alt=""
-        />
+        <a href="#">
+          <img
+            className="rounded-xs p-[2px] lg:p-[5px]"
+            src="https://freight.cargo.site/w/360/q/94/i/2f9fbe8c7f6d35fbf9fecbb0272bbb55505b5aa4a533416618d36c14c1662f14/Mel-Walker---Portfolio---White-Claw---Megawave.gif"
+            alt=""
+          />
+        </a>
+        <a href="#">
+          <img
+            className="rounded-xs p-[2px] lg:p-[5px]"
+            src="https://freight.cargo.site/w/360/q/94/i/c976f321ada37541c8604a564e28262d273cb24d2c331050a306c6b9fb1f6557/Mel-Walker---Portfolio---West-Coast-Modern---Hideaway-House.gif"
+            alt=""
+          />
+        </a>
+        <a href="#">
+          <img
+            className="rounded-xs p-[2px] lg:p-[5px]"
+            src="https://freight.cargo.site/w/360/q/94/i/67f21427ba619a42cd7d65e85c867769c902c6799092859d4e7220b2a3af892c/Mel-Walker---Portfolio---Rhode-low.gif"
+            alt=""
+          />
+        </a>
+        <a href="#">
+          <img
+            className="rounded-xs p-[2px] lg:p-[5px]"
+            src="https://freight.cargo.site/w/360/q/94/i/ebad506045b39267bee95a59d8956f45742a018cc59fb60a7bfeb5342e32753f/Mel-Walker---Portfolio---UNI.gif"
+            alt=""
+          />
+        </a>
+        <a href="#">
+          <img
+            className="rounded-xs p-[2px] lg:p-[5px]"
+            src="https://freight.cargo.site/w/360/q/94/i/2744e6e347340e4f54071efa2cc40a84dbb44aa2588ef16192bdb018f685303e/Mel-Walker---Portfolio---Rhode---Strawberry-Lip-Peptide.gif"
+            alt=""
+          />
+        </a>
       </div>
     </div>
   );
