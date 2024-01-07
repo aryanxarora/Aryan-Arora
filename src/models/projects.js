@@ -7,6 +7,13 @@ const projects = [
     "repo" : "https://proview.vercel.app/"
   },
   {
+    "imageUrl" : "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/stripenavbar.png",
+    "title" : "STRIPE RESPONSIVE NAVBAR",
+    "tag" : "Next.js, TypeScript, TailwindCSS",
+    "description" : "A fully responsive and dynamic plug-n-play navbar component inspired by Stripe",
+    "repo" : "https://navbar-stripe.vercel.app/"
+  },
+  {
     "imageUrl" : "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/billing-portal.png",
     "title" : "MOBILITY AND INTERNET INVOICING",
     "tag" : "ReactJS, TailwindCSS, JSPDF",
