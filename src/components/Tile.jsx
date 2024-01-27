@@ -9,24 +9,38 @@ function Tile({ imageUrl, title, tag, techstack, description, repo }) {
       <div className="lg:basis-1/2 lg:pl-5">
         {/* Title */}
         <a href={repo} target="_blank">
-          <p className="font-sans lg:text-xl 2xl:text-2xl hover:underline cursor-alias">
+          <p className="font-sans font-semibold text-xl 2xl:text-2xl hover:underline cursor-alias">
             {title}
           </p>
         </a>
         {/* Tag */}
         <p className="font-serif text-base mt-2">{tag}</p>
-        <div className="flex gap-3 mt-5">
+        <div className="flex mt-5">
           {techstack.map((item) => (
             <img
               src={`https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/icons/${item}.svg`}
               alt=""
-              className="w-7"
+              className="w-14"
             />
           ))}
         </div>
 
         {/* Description */}
-        <p className="font-serif pt-5 lg:pt-10">{description}</p>
+        <p className="font-serif mt-5 lg:mt-5">{description}</p>
+        {/* <div className="mt-5 flex gap-3">
+          <a
+            href="/"
+            className="bg-black text-white px-5 py-2 rounded-lg font-bold text-xs"
+          >
+            VIEW LIVE
+          </a>
+          <a
+            href="/"
+            className="bg-black text-white px-5 py-2 rounded-lg font-bold text-xs"
+          >
+            GITHUB
+          </a>
+        </div> */}
       </div>
     </div>
   );
