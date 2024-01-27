@@ -1,5 +1,12 @@
 const projects = [
   {
+    "imageUrl" : "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/cashcompass.png",
+    "title" : "CASH COMPASS INCOME TRACKER",
+    "tag" : "Next.js, TypeScript, TailwindCSS, Firebase, Google Auth",
+    "description" : "Streamline your finances. Easily log income, and let Cash Compass smartly allocate it to categories",
+    "repo" : "https://github.com/aryanxarora/Cashout"
+  },
+  {
     "imageUrl" : "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/proview.png",
     "title" : "PROVIEW REAL ESTATE MEDIA WEBSITE",
     "tag" : "ReactJS, TailwindCSS, Vercel",
