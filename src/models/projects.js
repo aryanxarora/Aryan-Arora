@@ -3,6 +3,7 @@ const projects = [
     "imageUrl" : "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/cashcompass.png",
     "title" : "CASH COMPASS INCOME TRACKER",
     "tag" : "Next.js, TypeScript, TailwindCSS, Firebase, Google Auth",
+    "techstack": ["next", 'typescript', 'tailwind', 'firebase', 'redux'],
     "description" : "Streamline your finances. Easily log income, and let Cash Compass smartly allocate it to categories",
     "repo" : "https://github.com/aryanxarora/Cashout"
   },
@@ -10,6 +11,7 @@ const projects = [
     "imageUrl" : "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/proview.png",
     "title" : "PROVIEW REAL ESTATE MEDIA WEBSITE",
     "tag" : "ReactJS, TailwindCSS, Vercel",
+    "techstack": ["react", 'tailwind'],
     "description" : "Website created for a real estate marketing firm to showcase their services and host listings",
     "repo" : "https://proview.vercel.app/"
   },
@@ -17,6 +19,7 @@ const projects = [
     "imageUrl" : "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/stripenavbar.png",
     "title" : "STRIPE RESPONSIVE NAVBAR",
     "tag" : "Next.js, TypeScript, TailwindCSS",
+    "techstack": ["next", 'typescript', 'tailwind'],
     "description" : "A fully responsive and dynamic plug-n-play navbar component inspired by Stripe",
     "repo" : "https://navbar-stripe.vercel.app/"
   },
@@ -24,6 +27,7 @@ const projects = [
     "imageUrl" : "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/billing-portal.png",
     "title" : "MOBILITY AND INTERNET INVOICING",
     "tag" : "ReactJS, TailwindCSS, JSPDF",
+    "techstack": ["react", 'tailwind', 'dotnet', 'azure'],
     "description" : "An internal billing and invoicing web app created for internet and mobility companies with a portal for admins to send invoices to customers and a customer end to check their plan, usage, and invoices with the feature to pay their bills",
     "repo" : "https://billing-portal.vercel.app/"
   },
@@ -31,6 +35,7 @@ const projects = [
     "imageUrl" : "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/kitchenette.png",
     "title" : "RECIPE SHARING WEB APP",
     "tag" : "EJS, Express, MongoDB, NodeJS, Cookies",
+    "techstack": ["react", 'nodejs', 'mongodb', 'firebase'],
     "description" : "The name of this web app is Kitchenete. The story behind this is... I was living alone in an apartment near my university and so were my friends. We decided to share the recipes we were cooking. At the time, Notion wasn't really a big thing (something that could be used for this purpose) so I decided to create a project around it. A web app where you can upload recipes and share them with your friends!",
     "repo" : "https://github.com/aryanxarora/dlsu-kitchenette"
   },
