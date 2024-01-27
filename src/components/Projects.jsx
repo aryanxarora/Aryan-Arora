@@ -11,6 +11,7 @@ function Projects() {
           tag={project.tag}
           description={project.description}
           repo={project.repo}
+          techstack={project.techstack}
         />
       ))}
     </div>
