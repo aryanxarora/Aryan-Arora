@@ -5,7 +5,7 @@ const projects = [
     "tag" : "Next.js, TypeScript, TailwindCSS, Firebase, Google Auth",
     "techstack": ["next", 'typescript', 'tailwind', 'firebase', 'redux'],
     "description" : "Streamline your finances. Easily log income, and let Cash Compass smartly allocate it to categories",
-    "repo" : "https://github.com/aryanxarora/Cashout"
+    "repo" : "https://cashcompass.vercel.app/"
   },
   {
     "imageUrl" : "https://raw.githubusercontent.com/aryanxarora/Aryan-Arora/main/src/images/proview.png",
